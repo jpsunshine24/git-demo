@@ -2,8 +2,6 @@
 
 This is the first file in this repo
 
-## Additional Text
+## Website contents
 
-Testing the git commands
-
-Adding more text
+1. index.html
